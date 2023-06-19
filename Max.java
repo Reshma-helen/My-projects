@@ -37,7 +37,7 @@ class Max extends Applet
 	 public boolean action(Event e,Object o)
 	 {
 	   repaint();
-	   return true();
+	   return true;
 	  }
 }
 	
